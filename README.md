@@ -19,7 +19,7 @@ All the price and rent values are expressed in euros (EUR).
 
 ### Dashboard
 
-![alt text](https://github.com/daniel-gheorghita/dezoomcamp/blob/main/7_project_Belgium_housing_market/dashboard.png)
+![dashboard](https://github.com/SuperbMike/Belgium_Housing_Market_Project/assets/129975493/6794df63-b1d9-4d80-8603-b036cbbb1169)
 Dashboard [link](https://lookerstudio.google.com/reporting/25d568fa-1a4d-4e6c-bc6c-33b9798f2b0b).
 
 ### Project folder structure
